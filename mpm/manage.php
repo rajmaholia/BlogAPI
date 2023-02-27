@@ -1,0 +1,3 @@
+<?php
+//Handler Command Line
+?>
